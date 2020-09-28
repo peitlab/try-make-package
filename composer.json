@@ -1,5 +1,5 @@
 {
-    "name": "vagrant/try-make-package",
+    "name": "pei/try-make-package",
     "description": "try make a package",
     "type": "library",
     "license": "MIT",
